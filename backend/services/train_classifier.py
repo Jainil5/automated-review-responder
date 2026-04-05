@@ -8,6 +8,7 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import LabelEncoder, label_binarize
@@ -255,6 +256,37 @@ plt.tight_layout()
 plt.savefig(os.path.join(CHART_DIR, 'accuracy_comparison.png'), dpi=150)
 plt.close()
 
-print(f"\n✓ Chart saved  → {CHART_DIR}/accuracy_comparison.png")
-print(f"✓ Metrics CSV  → {summary_path}")
-print(f"✓ Confusion matrices → {OUT_DIR}/<model>_confusion_matrix.csv")
+# ── Confusion matrix grid (one heatmap per model) ──
+cm_model_names = list(sklearn_models.keys()) + ['Neural Network']
+fig, axes = plt.subplots(2, 3, figsize=(20, 12))
+fig.patch.set_facecolor('white')
+axes = axes.flatten()
+
+for idx, name in enumerate(cm_model_names):
+    fname = name.lower().replace(' ', '_') + '_confusion_matrix.csv'
+    cm_df = pd.read_csv(os.path.join(OUT_DIR, fname), index_col=0)
+    ax    = axes[idx]
+    sns.heatmap(
+        cm_df.astype(int), annot=True, fmt='d',
+        cmap='Blues', linewidths=0.5, linecolor='white',
+        cbar=True, ax=ax,
+        annot_kws={'size': 11, 'weight': 'bold'}
+    )
+    model_acc = summary_df.loc[summary_df['Model'] == name, 'Accuracy'].values
+    acc_label = f"  ({model_acc[0]*100:.1f}%)" if len(model_acc) else ''
+    ax.set_title(f"{name}{acc_label}", fontweight='bold', fontsize=12, pad=10)
+    ax.set_xlabel('Predicted', fontsize=10)
+    ax.set_ylabel('Actual', fontsize=10)
+    plt.setp(ax.get_xticklabels(), rotation=35, ha='right', fontsize=9)
+    plt.setp(ax.get_yticklabels(), rotation=0, fontsize=9)
+
+axes[-1].set_visible(False)
+fig.suptitle('Confusion Matrices — All Models', fontsize=16, fontweight='bold', y=1.01)
+plt.tight_layout()
+plt.savefig(os.path.join(CHART_DIR, 'confusion_matrices.png'), dpi=140, bbox_inches='tight')
+plt.close()
+
+print(f"\n✓ Accuracy chart  → {CHART_DIR}/accuracy_comparison.png")
+print(f"✓ Confusion chart  → {CHART_DIR}/confusion_matrices.png")
+print(f"✓ Metrics CSV      → {summary_path}")
+print(f"✓ Confusion CSVs   → {OUT_DIR}/<model>_confusion_matrix.csv")
