@@ -18,7 +18,7 @@ else:
 
 dataset = load_dataset(
     "csv",
-    data_files="backend/datasets/rewiews-response.csv"
+    data_files="backend/datasets/reviews-data.csv"
 )
 
 dataset = dataset["train"].train_test_split(
