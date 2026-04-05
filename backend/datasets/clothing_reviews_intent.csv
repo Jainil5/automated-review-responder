@@ -1,0 +1,4001 @@
+review,sentiment,intent
+Looks cheap quality,negative,quality
+Haven't got my money back,negative,refund
+Loved the product,positive,general
+Average experience,negative,general
+Totally worth it,positive,general
+Expected better,negative,general
+Loved the product,positive,general
+Return process is slow,negative,refund
+Refund not received,negative,refund
+Really liked it,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Quality is very bad,negative,quality
+Not durable at all,negative,quality
+Loved the product,positive,general
+Fit is too tight,negative,size_fit
+Received product late and Refund not received,negative,delivery|refund
+Expected better,negative,general
+Loved the product,positive,general
+Not satisfied,negative,general
+Expected better,negative,general
+Not satisfied,negative,general
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Very comfortable fabric,positive,general
+Sizing is not accurate,negative,size_fit
+Cloth is uncomfortable,negative,material
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Material quality is poor,negative,material
+Refund not received,negative,refund
+Quality is very bad,negative,quality
+Refund not received,negative,refund
+Loved the product,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Very disappointing,negative,general
+Great quality and fit,positive,general
+Doesn't fit well,negative,size_fit
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Package delayed and Size is too small,negative,delivery|size_fit
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Very disappointing,negative,general
+Could be better,negative,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Refund taking too long and Sizing is not accurate,negative,refund|size_fit
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Totally worth it,positive,general
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Product got damaged quickly and Delivery took too long,negative,quality|delivery
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Could be better,negative,general
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Fit is too tight and Return process is slow,negative,size_fit|refund
+Sizing is not accurate,negative,size_fit
+Received product late and Still waiting for refund,negative,delivery|refund
+Really liked it,positive,general
+Expected better,negative,general
+Totally worth it,positive,general
+Expected better,negative,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Return process is slow,negative,refund
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Received product late,negative,delivery
+Really liked it,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Still waiting for refund,negative,refund
+Delivery was late,negative,delivery
+Size is too small and Material is not soft,negative,size_fit|material
+Refund taking too long,negative,refund
+Really liked it,positive,general
+Great quality and fit,positive,general
+Not durable at all,negative,quality
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Could be better,negative,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Not durable at all and Doesn't fit well,negative,quality|size_fit
+Not satisfied,negative,general
+Really liked it,positive,general
+Very disappointing,negative,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Quality is very bad,negative,quality
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Totally worth it,positive,general
+Refund taking too long,negative,refund
+Too loose fitting,negative,size_fit
+Return process is slow,negative,refund
+Could be better,negative,general
+Product got damaged quickly,negative,quality
+Package delayed,negative,delivery
+Sizing is not accurate,negative,size_fit
+Size is too small,negative,size_fit
+Not satisfied,negative,general
+Order arrived very late,negative,delivery
+Loved the product,positive,general
+Received product late,negative,delivery
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Order arrived very late,negative,delivery
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Amazing experience,positive,general
+Doesn't fit well,negative,size_fit
+Stitching is poor,negative,quality
+Material quality is poor,negative,material
+Material is not soft and Haven't got my money back,negative,material|refund
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Looks cheap quality,negative,quality
+Material is not soft,negative,material
+Very disappointing,negative,general
+Great quality and fit,positive,general
+Too loose fitting and Product got damaged quickly,negative,size_fit|quality
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Not durable at all,negative,quality
+Really liked it,positive,general
+Fabric is rough,negative,material
+Totally worth it,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Refund not received,negative,refund
+Really liked it,positive,general
+Fabric is rough,negative,material
+Material is not soft and Refund taking too long,negative,material|refund
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Quality is very bad,negative,quality
+Fit is too tight,negative,size_fit
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Package delayed,negative,delivery
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Refund not received and Quality is very bad,negative,refund|quality
+Totally worth it,positive,general
+Not durable at all,negative,quality
+Refund not received,negative,refund
+Cloth is uncomfortable,negative,material
+Return process is slow and Not durable at all,negative,refund|quality
+Really liked it,positive,general
+Could be better,negative,general
+Package delayed,negative,delivery
+Fabric is rough,negative,material
+Doesn't fit well,negative,size_fit
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Loved the product,positive,general
+Size is too small,negative,size_fit
+Expected better,negative,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Expected better,negative,general
+Delivery was late,negative,delivery
+Size is too small and Stitching is poor,negative,size_fit|quality
+Totally worth it,positive,general
+Return process is slow and Doesn't fit well,negative,refund|size_fit
+Totally worth it,positive,general
+Amazing experience,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Delivery was late,negative,delivery
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Fabric is rough and Haven't got my money back,negative,material|refund
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Could be better,negative,general
+Totally worth it,positive,general
+Fit is too tight,negative,size_fit
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Fit is too tight and Haven't got my money back,negative,size_fit|refund
+Not satisfied,negative,general
+Product got damaged quickly,negative,quality
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Average experience,negative,general
+Totally worth it,positive,general
+Expected better,negative,general
+Too loose fitting,negative,size_fit
+Fabric is rough and Looks cheap quality,negative,material|quality
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Very disappointing,negative,general
+Too loose fitting,negative,size_fit
+Haven't got my money back,negative,refund
+Quality is very bad,negative,quality
+Fabric feels cheap,negative,material
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Quality is very bad,negative,quality
+Doesn't fit well,negative,size_fit
+Great quality and fit,positive,general
+Order arrived very late,negative,delivery
+Delivery was late,negative,delivery
+Amazing experience,positive,general
+Too loose fitting and Fabric is rough,negative,size_fit|material
+Delivery was late and Material quality is poor,negative,delivery|material
+Average experience,negative,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Doesn't fit well,negative,size_fit
+Material quality is poor,negative,material
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Product got damaged quickly,negative,quality
+Not satisfied,negative,general
+Loved the product,positive,general
+Loved the product,positive,general
+Too loose fitting,negative,size_fit
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Fabric is rough,negative,material
+Looks cheap quality,negative,quality
+Too loose fitting and Received product late,negative,size_fit|delivery
+Average experience,negative,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Quality is very bad and Sizing is not accurate,negative,quality|size_fit
+Amazing experience,positive,general
+Still waiting for refund,negative,refund
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Refund taking too long,negative,refund
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Refund taking too long,negative,refund
+Haven't got my money back,negative,refund
+Material quality is poor,negative,material
+Totally worth it,positive,general
+Package delayed,negative,delivery
+Refund not received,negative,refund
+Really liked it,positive,general
+Sizing is not accurate,negative,size_fit
+Material quality is poor,negative,material
+Package delayed,negative,delivery
+Refund not received,negative,refund
+Material quality is poor,negative,material
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Quality is very bad,negative,quality
+Totally worth it,positive,general
+Delivery took too long,negative,delivery
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Quality is very bad,negative,quality
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Still waiting for refund,negative,refund
+Amazing experience,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Totally worth it,positive,general
+Amazing experience,positive,general
+Looks cheap quality and Return process is slow,negative,quality|refund
+Very comfortable fabric,positive,general
+Average experience,negative,general
+Totally worth it,positive,general
+Fabric feels cheap,negative,material
+Totally worth it,positive,general
+Loved the product,positive,general
+Not satisfied,negative,general
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Great quality and fit,positive,general
+Fit is too tight,negative,size_fit
+Fabric is rough,negative,material
+Cloth is uncomfortable,negative,material
+Amazing experience,positive,general
+Looks cheap quality,negative,quality
+Really liked it,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Refund taking too long,negative,refund
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Material quality is poor,negative,material
+Amazing experience,positive,general
+Stitching is poor and Still waiting for refund,negative,quality|refund
+Delivery was late,negative,delivery
+Amazing experience,positive,general
+Doesn't fit well,negative,size_fit
+Great quality and fit,positive,general
+Very disappointing,negative,general
+Really liked it,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Refund not received,negative,refund
+Really liked it,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Size is too small and Cloth is uncomfortable,negative,size_fit|material
+Loved the product,positive,general
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Still waiting for refund and Looks cheap quality,negative,refund|quality
+Great quality and fit,positive,general
+Fabric feels cheap,negative,material
+Totally worth it,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Quality is very bad,negative,quality
+Really liked it,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Could be better,negative,general
+Size is too small,negative,size_fit
+Doesn't fit well and Delivery was late,negative,size_fit|delivery
+Really liked it,positive,general
+Sizing is not accurate,negative,size_fit
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Order arrived very late and Return process is slow,negative,delivery|refund
+Very disappointing,negative,general
+Totally worth it,positive,general
+Package delayed,negative,delivery
+Refund taking too long and Delivery was late,negative,refund|delivery
+Looks cheap quality and Fabric is rough,negative,quality|material
+Cloth is uncomfortable,negative,material
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Totally worth it,positive,general
+Material quality is poor,negative,material
+Material is not soft,negative,material
+Loved the product,positive,general
+Product got damaged quickly and Doesn't fit well,negative,quality|size_fit
+Not durable at all and Material is not soft,negative,quality|material
+Great quality and fit,positive,general
+Refund taking too long,negative,refund
+Great quality and fit,positive,general
+Average experience,negative,general
+Very comfortable fabric,positive,general
+Not satisfied,negative,general
+Amazing experience,positive,general
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Could be better,negative,general
+Order arrived very late,negative,delivery
+Totally worth it,positive,general
+Product got damaged quickly,negative,quality
+Delivery was late,negative,delivery
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Very disappointing,negative,general
+Refund not received,negative,refund
+Really liked it,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Amazing experience,positive,general
+Sizing is not accurate,negative,size_fit
+Very disappointing,negative,general
+Material quality is poor,negative,material
+Size is too small,negative,size_fit
+Fabric is rough and Delivery took too long,negative,material|delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Cloth is uncomfortable and Received product late,negative,material|delivery
+Delivery was late,negative,delivery
+Delivery took too long,negative,delivery
+Not durable at all,negative,quality
+Really liked it,positive,general
+Quality is very bad,negative,quality
+Still waiting for refund and Material quality is poor,negative,refund|material
+Not durable at all,negative,quality
+Delivery took too long and Cloth is uncomfortable,negative,delivery|material
+Loved the product,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Doesn't fit well,negative,size_fit
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Product got damaged quickly and Material is not soft,negative,quality|material
+Stitching is poor,negative,quality
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Could be better,negative,general
+Fabric feels cheap and Fit is too tight,negative,material|size_fit
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Amazing experience,positive,general
+Very disappointing,negative,general
+Fabric is rough,negative,material
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Amazing experience,positive,general
+Not satisfied,negative,general
+Fabric is rough,negative,material
+Material is not soft,negative,material
+Return process is slow,negative,refund
+Really liked it,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Loved the product,positive,general
+Expected better,negative,general
+Very comfortable fabric,positive,general
+Refund not received and Doesn't fit well,negative,refund|size_fit
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Doesn't fit well,negative,size_fit
+Looks cheap quality and Received product late,negative,quality|delivery
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Very disappointing,negative,general
+Very disappointing,negative,general
+Package delayed,negative,delivery
+Loved the product,positive,general
+Amazing experience,positive,general
+Expected better,negative,general
+Loved the product,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Looks cheap quality,negative,quality
+Sizing is not accurate,negative,size_fit
+Looks cheap quality and Return process is slow,negative,quality|refund
+Really liked it,positive,general
+Expected better,negative,general
+Totally worth it,positive,general
+Not durable at all,negative,quality
+Great quality and fit,positive,general
+Looks cheap quality,negative,quality
+Size is too small,negative,size_fit
+Amazing experience,positive,general
+Totally worth it,positive,general
+Fabric feels cheap,negative,material
+Not satisfied,negative,general
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Material is not soft,negative,material
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Quality is very bad,negative,quality
+Quality is very bad and Received product late,negative,quality|delivery
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Doesn't fit well,negative,size_fit
+Fabric feels cheap,negative,material
+Fabric feels cheap,negative,material
+Quality is very bad,negative,quality
+Refund taking too long,negative,refund
+Could be better,negative,general
+Haven't got my money back,negative,refund
+Really liked it,positive,general
+Refund taking too long and Material quality is poor,negative,refund|material
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Expected better,negative,general
+Received product late,negative,delivery
+Still waiting for refund,negative,refund
+Great quality and fit,positive,general
+Quality is very bad,negative,quality
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Delivery was late,negative,delivery
+Order arrived very late and Refund not received,negative,delivery|refund
+Loved the product,positive,general
+Totally worth it,positive,general
+Too loose fitting,negative,size_fit
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Totally worth it,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Delivery took too long and Size is too small,negative,delivery|size_fit
+Refund not received,negative,refund
+Very disappointing,negative,general
+Loved the product,positive,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Totally worth it,positive,general
+Product got damaged quickly,negative,quality
+Fabric feels cheap,negative,material
+Order arrived very late,negative,delivery
+Not durable at all and Too loose fitting,negative,quality|size_fit
+Cloth is uncomfortable and Quality is very bad,negative,material|quality
+Received product late and Cloth is uncomfortable,negative,delivery|material
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Loved the product,positive,general
+Refund not received and Looks cheap quality,negative,refund|quality
+Sizing is not accurate,negative,size_fit
+Totally worth it,positive,general
+Totally worth it,positive,general
+Haven't got my money back and Cloth is uncomfortable,negative,refund|material
+Could be better,negative,general
+Refund not received,negative,refund
+Looks cheap quality,negative,quality
+Order arrived very late,negative,delivery
+Great quality and fit,positive,general
+Really liked it,positive,general
+Received product late,negative,delivery
+Size is too small,negative,size_fit
+Doesn't fit well,negative,size_fit
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Loved the product,positive,general
+Totally worth it,positive,general
+Haven't got my money back,negative,refund
+Not satisfied,negative,general
+Loved the product,positive,general
+Product got damaged quickly and Still waiting for refund,negative,quality|refund
+Fabric feels cheap and Haven't got my money back,negative,material|refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Not durable at all,negative,quality
+Totally worth it,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Product got damaged quickly,negative,quality
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Received product late,negative,delivery
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Delivery took too long,negative,delivery
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Received product late,negative,delivery
+Looks cheap quality,negative,quality
+Very comfortable fabric,positive,general
+Product got damaged quickly and Too loose fitting,negative,quality|size_fit
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Stitching is poor,negative,quality
+Not satisfied,negative,general
+Fit is too tight,negative,size_fit
+Quality is very bad,negative,quality
+Stitching is poor and Sizing is not accurate,negative,quality|size_fit
+Not satisfied,negative,general
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Totally worth it,positive,general
+Too loose fitting and Cloth is uncomfortable,negative,size_fit|material
+Very comfortable fabric,positive,general
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Quality is very bad and Order arrived very late,negative,quality|delivery
+Totally worth it,positive,general
+Refund taking too long,negative,refund
+Received product late,negative,delivery
+Looks cheap quality,negative,quality
+Totally worth it,positive,general
+Refund taking too long,negative,refund
+Return process is slow,negative,refund
+Loved the product,positive,general
+Amazing experience,positive,general
+Looks cheap quality,negative,quality
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Package delayed and Quality is very bad,negative,delivery|quality
+Could be better,negative,general
+Refund taking too long,negative,refund
+Really liked it,positive,general
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Could be better,negative,general
+Delivery was late,negative,delivery
+Amazing experience,positive,general
+Loved the product,positive,general
+Delivery was late and Still waiting for refund,negative,delivery|refund
+Product got damaged quickly and Too loose fitting,negative,quality|size_fit
+Totally worth it,positive,general
+Cloth is uncomfortable,negative,material
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Order arrived very late,negative,delivery
+Amazing experience,positive,general
+Material quality is poor,negative,material
+Amazing experience,positive,general
+Quality is very bad,negative,quality
+Cloth is uncomfortable,negative,material
+Average experience,negative,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Doesn't fit well,negative,size_fit
+Package delayed,negative,delivery
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Package delayed and Stitching is poor,negative,delivery|quality
+Really liked it,positive,general
+Fabric feels cheap,negative,material
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Order arrived very late and Sizing is not accurate,negative,delivery|size_fit
+Expected better,negative,general
+Package delayed,negative,delivery
+Loved the product,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Refund not received,negative,refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Package delayed,negative,delivery
+Very comfortable fabric,positive,general
+Delivery took too long,negative,delivery
+Stitching is poor,negative,quality
+Still waiting for refund,negative,refund
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Doesn't fit well and Fabric feels cheap,negative,size_fit|material
+Fit is too tight,negative,size_fit
+Return process is slow,negative,refund
+Amazing experience,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Refund taking too long,negative,refund
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Order arrived very late,negative,delivery
+Delivery was late,negative,delivery
+Loved the product,positive,general
+Loved the product,positive,general
+Fabric is rough,negative,material
+Very comfortable fabric,positive,general
+Return process is slow,negative,refund
+Fabric feels cheap,negative,material
+Return process is slow,negative,refund
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Order arrived very late,negative,delivery
+Return process is slow and Doesn't fit well,negative,refund|size_fit
+Material is not soft,negative,material
+Quality is very bad,negative,quality
+Haven't got my money back,negative,refund
+Could be better,negative,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Very disappointing,negative,general
+Fit is too tight,negative,size_fit
+Totally worth it,positive,general
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Really liked it,positive,general
+Received product late,negative,delivery
+Received product late,negative,delivery
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Could be better,negative,general
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Totally worth it,positive,general
+Fit is too tight,negative,size_fit
+Totally worth it,positive,general
+Average experience,negative,general
+Not satisfied,negative,general
+Very disappointing,negative,general
+Totally worth it,positive,general
+Haven't got my money back and Size is too small,negative,refund|size_fit
+Very disappointing,negative,general
+Haven't got my money back,negative,refund
+Package delayed,negative,delivery
+Amazing experience,positive,general
+Delivery was late,negative,delivery
+Loved the product,positive,general
+Doesn't fit well,negative,size_fit
+Quality is very bad,negative,quality
+Stitching is poor,negative,quality
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Fabric is rough,negative,material
+Delivery was late,negative,delivery
+Product got damaged quickly,negative,quality
+Still waiting for refund and Delivery was late,negative,refund|delivery
+Delivery was late and Product got damaged quickly,negative,delivery|quality
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Size is too small,negative,size_fit
+Not durable at all,negative,quality
+Too loose fitting and Package delayed,negative,size_fit|delivery
+Too loose fitting,negative,size_fit
+Loved the product,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Fit is too tight,negative,size_fit
+Material is not soft,negative,material
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Could be better,negative,general
+Could be better,negative,general
+Refund not received,negative,refund
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Fabric feels cheap,negative,material
+Size is too small,negative,size_fit
+Haven't got my money back,negative,refund
+Not durable at all,negative,quality
+Order arrived very late,negative,delivery
+Really liked it,positive,general
+Product got damaged quickly,negative,quality
+Very comfortable fabric,positive,general
+Fabric feels cheap,negative,material
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Cloth is uncomfortable and Delivery was late,negative,material|delivery
+Product got damaged quickly and Fabric feels cheap,negative,quality|material
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Great quality and fit,positive,general
+Refund taking too long,negative,refund
+Refund taking too long and Size is too small,negative,refund|size_fit
+Refund taking too long,negative,refund
+Sizing is not accurate and Refund taking too long,negative,size_fit|refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Too loose fitting and Package delayed,negative,size_fit|delivery
+Fabric is rough,negative,material
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Very disappointing,negative,general
+Could be better,negative,general
+Size is too small,negative,size_fit
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Haven't got my money back,negative,refund
+Order arrived very late,negative,delivery
+Great quality and fit,positive,general
+Material quality is poor and Product got damaged quickly,negative,material|quality
+Great quality and fit,positive,general
+Order arrived very late,negative,delivery
+Totally worth it,positive,general
+Loved the product,positive,general
+Order arrived very late,negative,delivery
+Average experience,negative,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Doesn't fit well,negative,size_fit
+Order arrived very late and Fit is too tight,negative,delivery|size_fit
+Order arrived very late,negative,delivery
+Average experience,negative,general
+Still waiting for refund,negative,refund
+Amazing experience,positive,general
+Loved the product,positive,general
+Fit is too tight,negative,size_fit
+Very disappointing,negative,general
+Delivery took too long,negative,delivery
+Looks cheap quality,negative,quality
+Loved the product,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Not durable at all,negative,quality
+Received product late,negative,delivery
+Received product late,negative,delivery
+Average experience,negative,general
+Fabric is rough,negative,material
+Size is too small,negative,size_fit
+Great quality and fit,positive,general
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Sizing is not accurate,negative,size_fit
+Refund not received,negative,refund
+Stitching is poor,negative,quality
+Haven't got my money back,negative,refund
+Really liked it,positive,general
+Fabric feels cheap and Haven't got my money back,negative,material|refund
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Really liked it,positive,general
+Average experience,negative,general
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Quality is very bad and Cloth is uncomfortable,negative,quality|material
+Very comfortable fabric,positive,general
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Order arrived very late,negative,delivery
+Order arrived very late,negative,delivery
+Still waiting for refund,negative,refund
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Fabric is rough,negative,material
+Looks cheap quality,negative,quality
+Sizing is not accurate,negative,size_fit
+Not durable at all,negative,quality
+Really liked it,positive,general
+Size is too small,negative,size_fit
+Really liked it,positive,general
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Received product late,negative,delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Stitching is poor,negative,quality
+Fabric is rough,negative,material
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Fabric is rough and Fit is too tight,negative,material|size_fit
+Quality is very bad and Size is too small,negative,quality|size_fit
+Material is not soft,negative,material
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Received product late,negative,delivery
+Product got damaged quickly,negative,quality
+Still waiting for refund,negative,refund
+Haven't got my money back,negative,refund
+Fabric is rough and Delivery took too long,negative,material|delivery
+Sizing is not accurate,negative,size_fit
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Material is not soft,negative,material
+Totally worth it,positive,general
+Fabric is rough,negative,material
+Totally worth it,positive,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Cloth is uncomfortable,negative,material
+Stitching is poor,negative,quality
+Too loose fitting,negative,size_fit
+Totally worth it,positive,general
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Looks cheap quality,negative,quality
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Doesn't fit well,negative,size_fit
+Fabric is rough,negative,material
+Average experience,negative,general
+Expected better,negative,general
+Fabric is rough,negative,material
+Amazing experience,positive,general
+Loved the product,positive,general
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Very disappointing,negative,general
+Doesn't fit well,negative,size_fit
+Delivery took too long,negative,delivery
+Quality is very bad,negative,quality
+Not durable at all,negative,quality
+Loved the product,positive,general
+Package delayed,negative,delivery
+Order arrived very late,negative,delivery
+Cloth is uncomfortable,negative,material
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Not satisfied,negative,general
+Fabric is rough,negative,material
+Material is not soft,negative,material
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Size is too small,negative,size_fit
+Doesn't fit well,negative,size_fit
+Amazing experience,positive,general
+Expected better,negative,general
+Material is not soft and Quality is very bad,negative,material|quality
+Expected better,negative,general
+Product got damaged quickly,negative,quality
+Average experience,negative,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Too loose fitting,negative,size_fit
+Return process is slow,negative,refund
+Loved the product,positive,general
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Received product late,negative,delivery
+Very disappointing,negative,general
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Material quality is poor,negative,material
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Delivery was late,negative,delivery
+Fabric is rough,negative,material
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Fit is too tight and Still waiting for refund,negative,size_fit|refund
+Very comfortable fabric,positive,general
+Looks cheap quality and Delivery took too long,negative,quality|delivery
+Very disappointing,negative,general
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Fit is too tight,negative,size_fit
+Very disappointing,negative,general
+Return process is slow,negative,refund
+Material quality is poor and Fit is too tight,negative,material|size_fit
+Size is too small,negative,size_fit
+Size is too small,negative,size_fit
+Haven't got my money back and Delivery took too long,negative,refund|delivery
+Not durable at all and Size is too small,negative,quality|size_fit
+Really liked it,positive,general
+Totally worth it,positive,general
+Doesn't fit well,negative,size_fit
+Fabric feels cheap,negative,material
+Not satisfied,negative,general
+Too loose fitting,negative,size_fit
+Material is not soft,negative,material
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Amazing experience,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Delivery took too long,negative,delivery
+Fabric feels cheap,negative,material
+Totally worth it,positive,general
+Package delayed,negative,delivery
+Very disappointing,negative,general
+Refund not received and Fabric is rough,negative,refund|material
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Fabric is rough,negative,material
+Really liked it,positive,general
+Delivery was late,negative,delivery
+Amazing experience,positive,general
+Doesn't fit well,negative,size_fit
+Cloth is uncomfortable,negative,material
+Material quality is poor and Fit is too tight,negative,material|size_fit
+Doesn't fit well,negative,size_fit
+Really liked it,positive,general
+Great quality and fit,positive,general
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Too loose fitting and Material is not soft,negative,size_fit|material
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Return process is slow,negative,refund
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Order arrived very late,negative,delivery
+Loved the product,positive,general
+Too loose fitting,negative,size_fit
+Great quality and fit,positive,general
+Delivery was late,negative,delivery
+Really liked it,positive,general
+Could be better,negative,general
+Totally worth it,positive,general
+Stitching is poor,negative,quality
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Looks cheap quality,negative,quality
+Fabric feels cheap,negative,material
+Looks cheap quality,negative,quality
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Fabric feels cheap,negative,material
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Package delayed,negative,delivery
+Totally worth it,positive,general
+Received product late,negative,delivery
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Received product late,negative,delivery
+Material quality is poor,negative,material
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Average experience,negative,general
+Delivery was late,negative,delivery
+Could be better,negative,general
+Very comfortable fabric,positive,general
+Refund taking too long and Material quality is poor,negative,refund|material
+Amazing experience,positive,general
+Amazing experience,positive,general
+Fit is too tight and Material quality is poor,negative,size_fit|material
+Quality is very bad,negative,quality
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Really liked it,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Material quality is poor,negative,material
+Not satisfied,negative,general
+Very comfortable fabric,positive,general
+Delivery took too long and Too loose fitting,negative,delivery|size_fit
+Average experience,negative,general
+Doesn't fit well,negative,size_fit
+Quality is very bad and Material is not soft,negative,quality|material
+Amazing experience,positive,general
+Really liked it,positive,general
+Size is too small,negative,size_fit
+Size is too small and Delivery took too long,negative,size_fit|delivery
+Really liked it,positive,general
+Material is not soft,negative,material
+Loved the product,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Sizing is not accurate and Material is not soft,negative,size_fit|material
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Not satisfied,negative,general
+Fabric is rough,negative,material
+Fabric is rough,negative,material
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Delivery took too long,negative,delivery
+Refund taking too long,negative,refund
+Loved the product,positive,general
+Average experience,negative,general
+Expected better,negative,general
+Great quality and fit,positive,general
+Expected better,negative,general
+Great quality and fit,positive,general
+Looks cheap quality,negative,quality
+Product got damaged quickly and Delivery took too long,negative,quality|delivery
+Too loose fitting,negative,size_fit
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Cloth is uncomfortable,negative,material
+Fit is too tight,negative,size_fit
+Not satisfied,negative,general
+Loved the product,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Refund taking too long and Size is too small,negative,refund|size_fit
+Not durable at all,negative,quality
+Fit is too tight and Haven't got my money back,negative,size_fit|refund
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Haven't got my money back,negative,refund
+Fabric is rough and Product got damaged quickly,negative,material|quality
+Great quality and fit,positive,general
+Material is not soft,negative,material
+Loved the product,positive,general
+Refund not received,negative,refund
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Fit is too tight and Quality is very bad,negative,size_fit|quality
+Really liked it,positive,general
+Not durable at all and Received product late,negative,quality|delivery
+Really liked it,positive,general
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Doesn't fit well,negative,size_fit
+Return process is slow and Doesn't fit well,negative,refund|size_fit
+Loved the product,positive,general
+Material is not soft,negative,material
+Stitching is poor,negative,quality
+Not durable at all,negative,quality
+Refund taking too long,negative,refund
+Totally worth it,positive,general
+Amazing experience,positive,general
+Could be better,negative,general
+Order arrived very late,negative,delivery
+Sizing is not accurate,negative,size_fit
+Package delayed,negative,delivery
+Received product late,negative,delivery
+Haven't got my money back,negative,refund
+Delivery was late,negative,delivery
+Amazing experience,positive,general
+Delivery took too long,negative,delivery
+Cloth is uncomfortable,negative,material
+Package delayed,negative,delivery
+Average experience,negative,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Order arrived very late,negative,delivery
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Delivery was late and Refund not received,negative,delivery|refund
+Fabric feels cheap and Delivery was late,negative,material|delivery
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Received product late and Looks cheap quality,negative,delivery|quality
+Amazing experience,positive,general
+Not durable at all,negative,quality
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Fabric is rough and Refund taking too long,negative,material|refund
+Could be better,negative,general
+Very comfortable fabric,positive,general
+Fabric is rough,negative,material
+Fabric is rough,negative,material
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Totally worth it,positive,general
+Very disappointing,negative,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Doesn't fit well,negative,size_fit
+Fabric is rough and Looks cheap quality,negative,material|quality
+Refund taking too long,negative,refund
+Return process is slow,negative,refund
+Fabric is rough,negative,material
+Quality is very bad,negative,quality
+Size is too small and Package delayed,negative,size_fit|delivery
+Really liked it,positive,general
+Received product late,negative,delivery
+Loved the product,positive,general
+Received product late,negative,delivery
+Amazing experience,positive,general
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Loved the product,positive,general
+Fabric is rough,negative,material
+Looks cheap quality,negative,quality
+Order arrived very late and Too loose fitting,negative,delivery|size_fit
+Very comfortable fabric,positive,general
+Looks cheap quality,negative,quality
+Fabric is rough and Sizing is not accurate,negative,material|size_fit
+Could be better,negative,general
+Really liked it,positive,general
+Product got damaged quickly,negative,quality
+Cloth is uncomfortable,negative,material
+Delivery was late and Not durable at all,negative,delivery|quality
+Not durable at all,negative,quality
+Material quality is poor,negative,material
+Haven't got my money back,negative,refund
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Refund taking too long,negative,refund
+Totally worth it,positive,general
+Package delayed and Stitching is poor,negative,delivery|quality
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Fabric is rough,negative,material
+Cloth is uncomfortable,negative,material
+Very comfortable fabric,positive,general
+Received product late,negative,delivery
+Haven't got my money back,negative,refund
+Material quality is poor,negative,material
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Really liked it,positive,general
+Loved the product,positive,general
+Cloth is uncomfortable,negative,material
+Could be better,negative,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Package delayed,negative,delivery
+Package delayed,negative,delivery
+Package delayed,negative,delivery
+Cloth is uncomfortable and Size is too small,negative,material|size_fit
+Package delayed and Material quality is poor,negative,delivery|material
+Really liked it,positive,general
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Delivery took too long,negative,delivery
+Not satisfied,negative,general
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Really liked it,positive,general
+Quality is very bad,negative,quality
+Cloth is uncomfortable and Too loose fitting,negative,material|size_fit
+Looks cheap quality,negative,quality
+Delivery was late,negative,delivery
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Quality is very bad,negative,quality
+Expected better,negative,general
+Really liked it,positive,general
+Still waiting for refund,negative,refund
+Amazing experience,positive,general
+Haven't got my money back,negative,refund
+Loved the product,positive,general
+Haven't got my money back,negative,refund
+Haven't got my money back,negative,refund
+Very comfortable fabric,positive,general
+Fabric is rough,negative,material
+Expected better,negative,general
+Quality is very bad,negative,quality
+Could be better,negative,general
+Totally worth it,positive,general
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Great quality and fit,positive,general
+Could be better,negative,general
+Received product late,negative,delivery
+Totally worth it,positive,general
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Great quality and fit,positive,general
+Fit is too tight,negative,size_fit
+Haven't got my money back,negative,refund
+Size is too small,negative,size_fit
+Really liked it,positive,general
+Amazing experience,positive,general
+Return process is slow,negative,refund
+Amazing experience,positive,general
+Could be better,negative,general
+Refund not received and Cloth is uncomfortable,negative,refund|material
+Delivery was late,negative,delivery
+Amazing experience,positive,general
+Order arrived very late,negative,delivery
+Still waiting for refund,negative,refund
+Amazing experience,positive,general
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Haven't got my money back,negative,refund
+Amazing experience,positive,general
+Amazing experience,positive,general
+Package delayed,negative,delivery
+Product got damaged quickly,negative,quality
+Delivery took too long,negative,delivery
+Return process is slow,negative,refund
+Great quality and fit,positive,general
+Loved the product,positive,general
+Too loose fitting,negative,size_fit
+Not satisfied,negative,general
+Fabric is rough,negative,material
+Amazing experience,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Product got damaged quickly,negative,quality
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Refund taking too long,negative,refund
+Really liked it,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Size is too small and Product got damaged quickly,negative,size_fit|quality
+Loved the product,positive,general
+Amazing experience,positive,general
+Fabric is rough,negative,material
+Haven't got my money back,negative,refund
+Not durable at all,negative,quality
+Amazing experience,positive,general
+Could be better,negative,general
+Totally worth it,positive,general
+Fabric is rough,negative,material
+Loved the product,positive,general
+Received product late,negative,delivery
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Haven't got my money back,negative,refund
+Delivery took too long and Still waiting for refund,negative,delivery|refund
+Fit is too tight and Looks cheap quality,negative,size_fit|quality
+Amazing experience,positive,general
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Package delayed,negative,delivery
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Really liked it,positive,general
+Not satisfied,negative,general
+Really liked it,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Delivery took too long and Material quality is poor,negative,delivery|material
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Size is too small,negative,size_fit
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Loved the product,positive,general
+Quality is very bad and Fabric feels cheap,negative,quality|material
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Loved the product,positive,general
+Quality is very bad,negative,quality
+Delivery was late,negative,delivery
+Totally worth it,positive,general
+Fabric feels cheap,negative,material
+Really liked it,positive,general
+Could be better,negative,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Looks cheap quality,negative,quality
+Looks cheap quality,negative,quality
+Return process is slow,negative,refund
+Haven't got my money back,negative,refund
+Package delayed,negative,delivery
+Material is not soft and Size is too small,negative,material|size_fit
+Delivery was late,negative,delivery
+Not durable at all,negative,quality
+Stitching is poor,negative,quality
+Quality is very bad,negative,quality
+Fit is too tight and Quality is very bad,negative,size_fit|quality
+Product got damaged quickly and Return process is slow,negative,quality|refund
+Really liked it,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Refund not received,negative,refund
+Fit is too tight,negative,size_fit
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Return process is slow,negative,refund
+Delivery was late,negative,delivery
+Really liked it,positive,general
+Material quality is poor,negative,material
+Really liked it,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Looks cheap quality,negative,quality
+Order arrived very late,negative,delivery
+Fabric feels cheap,negative,material
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Cloth is uncomfortable,negative,material
+Amazing experience,positive,general
+Refund not received,negative,refund
+Great quality and fit,positive,general
+Not satisfied,negative,general
+Material is not soft and Too loose fitting,negative,material|size_fit
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Really liked it,positive,general
+Refund not received,negative,refund
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Order arrived very late and Size is too small,negative,delivery|size_fit
+Product got damaged quickly,negative,quality
+Loved the product,positive,general
+Stitching is poor and Material is not soft,negative,quality|material
+Amazing experience,positive,general
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Doesn't fit well,negative,size_fit
+Average experience,negative,general
+Really liked it,positive,general
+Really liked it,positive,general
+Sizing is not accurate,negative,size_fit
+Fabric feels cheap,negative,material
+Great quality and fit,positive,general
+Really liked it,positive,general
+Fabric feels cheap and Order arrived very late,negative,material|delivery
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Fit is too tight,negative,size_fit
+Delivery was late,negative,delivery
+Still waiting for refund,negative,refund
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Average experience,negative,general
+Delivery was late,negative,delivery
+Received product late,negative,delivery
+Too loose fitting,negative,size_fit
+Doesn't fit well,negative,size_fit
+Really liked it,positive,general
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Size is too small and Still waiting for refund,negative,size_fit|refund
+Totally worth it,positive,general
+Average experience,negative,general
+Loved the product,positive,general
+Average experience,negative,general
+Loved the product,positive,general
+Delivery took too long,negative,delivery
+Very disappointing,negative,general
+Amazing experience,positive,general
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Really liked it,positive,general
+Average experience,negative,general
+Doesn't fit well,negative,size_fit
+Really liked it,positive,general
+Too loose fitting,negative,size_fit
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Fabric is rough,negative,material
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Product got damaged quickly,negative,quality
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Haven't got my money back,negative,refund
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Material quality is poor and Stitching is poor,negative,material|quality
+Still waiting for refund and Not durable at all,negative,refund|quality
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Return process is slow,negative,refund
+Loved the product,positive,general
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Great quality and fit,positive,general
+Average experience,negative,general
+Totally worth it,positive,general
+Fit is too tight and Looks cheap quality,negative,size_fit|quality
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Very comfortable fabric,positive,general
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Totally worth it,positive,general
+Size is too small,negative,size_fit
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Really liked it,positive,general
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Not satisfied,negative,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Refund not received,negative,refund
+Material quality is poor,negative,material
+Not satisfied,negative,general
+Too loose fitting,negative,size_fit
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Quality is very bad,negative,quality
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Material quality is poor and Too loose fitting,negative,material|size_fit
+Average experience,negative,general
+Looks cheap quality,negative,quality
+Material quality is poor,negative,material
+Very comfortable fabric,positive,general
+Not durable at all and Order arrived very late,negative,quality|delivery
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Delivery took too long,negative,delivery
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Fabric is rough,negative,material
+Expected better,negative,general
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Size is too small,negative,size_fit
+Quality is very bad,negative,quality
+Delivery was late and Fabric is rough,negative,delivery|material
+Amazing experience,positive,general
+Refund not received,negative,refund
+Refund taking too long,negative,refund
+Delivery was late,negative,delivery
+Really liked it,positive,general
+Delivery was late,negative,delivery
+Totally worth it,positive,general
+Size is too small and Looks cheap quality,negative,size_fit|quality
+Fit is too tight,negative,size_fit
+Haven't got my money back,negative,refund
+Really liked it,positive,general
+Loved the product,positive,general
+Expected better,negative,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Really liked it,positive,general
+Haven't got my money back and Material quality is poor,negative,refund|material
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Size is too small and Material is not soft,negative,size_fit|material
+Really liked it,positive,general
+Great quality and fit,positive,general
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Delivery was late,negative,delivery
+Package delayed,negative,delivery
+Totally worth it,positive,general
+Amazing experience,positive,general
+Size is too small and Fabric feels cheap,negative,size_fit|material
+Sizing is not accurate,negative,size_fit
+Fabric feels cheap,negative,material
+Totally worth it,positive,general
+Stitching is poor,negative,quality
+Sizing is not accurate,negative,size_fit
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Order arrived very late,negative,delivery
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Package delayed,negative,delivery
+Package delayed,negative,delivery
+Could be better,negative,general
+Really liked it,positive,general
+Material quality is poor,negative,material
+Too loose fitting,negative,size_fit
+Refund taking too long,negative,refund
+Average experience,negative,general
+Sizing is not accurate,negative,size_fit
+Product got damaged quickly and Order arrived very late,negative,quality|delivery
+Amazing experience,positive,general
+Expected better,negative,general
+Loved the product,positive,general
+Material is not soft and Haven't got my money back,negative,material|refund
+Totally worth it,positive,general
+Cloth is uncomfortable,negative,material
+Haven't got my money back,negative,refund
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Package delayed,negative,delivery
+Refund not received,negative,refund
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Refund not received,negative,refund
+Delivery took too long,negative,delivery
+Refund taking too long,negative,refund
+Size is too small,negative,size_fit
+Really liked it,positive,general
+Too loose fitting,negative,size_fit
+Delivery was late,negative,delivery
+Refund taking too long,negative,refund
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Sizing is not accurate,negative,size_fit
+Sizing is not accurate,negative,size_fit
+Very disappointing,negative,general
+Not durable at all,negative,quality
+Amazing experience,positive,general
+Cloth is uncomfortable and Received product late,negative,material|delivery
+Totally worth it,positive,general
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Amazing experience,positive,general
+Amazing experience,positive,general
+Sizing is not accurate,negative,size_fit
+Quality is very bad,negative,quality
+Fabric feels cheap,negative,material
+Still waiting for refund,negative,refund
+Return process is slow,negative,refund
+Size is too small,negative,size_fit
+Order arrived very late,negative,delivery
+Stitching is poor,negative,quality
+Order arrived very late and Cloth is uncomfortable,negative,delivery|material
+Totally worth it,positive,general
+Average experience,negative,general
+Material is not soft and Delivery took too long,negative,material|delivery
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Delivery took too long,negative,delivery
+Loved the product,positive,general
+Great quality and fit,positive,general
+Haven't got my money back and Received product late,negative,refund|delivery
+Totally worth it,positive,general
+Very disappointing,negative,general
+Looks cheap quality,negative,quality
+Really liked it,positive,general
+Great quality and fit,positive,general
+Received product late,negative,delivery
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Expected better,negative,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Totally worth it,positive,general
+Not durable at all,negative,quality
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Quality is very bad,negative,quality
+Order arrived very late,negative,delivery
+Looks cheap quality,negative,quality
+Totally worth it,positive,general
+Quality is very bad,negative,quality
+Totally worth it,positive,general
+Sizing is not accurate,negative,size_fit
+Great quality and fit,positive,general
+Looks cheap quality,negative,quality
+Product got damaged quickly,negative,quality
+Haven't got my money back,negative,refund
+Could be better,negative,general
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Not durable at all,negative,quality
+Could be better,negative,general
+Order arrived very late,negative,delivery
+Cloth is uncomfortable,negative,material
+Refund not received,negative,refund
+Product got damaged quickly,negative,quality
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Sizing is not accurate,negative,size_fit
+Totally worth it,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Looks cheap quality,negative,quality
+Fabric feels cheap,negative,material
+Package delayed and Product got damaged quickly,negative,delivery|quality
+Quality is very bad,negative,quality
+Fabric is rough,negative,material
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Quality is very bad,negative,quality
+Refund taking too long and Sizing is not accurate,negative,refund|size_fit
+Really liked it,positive,general
+Really liked it,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Material quality is poor,negative,material
+Quality is very bad,negative,quality
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Looks cheap quality,negative,quality
+Looks cheap quality,negative,quality
+Sizing is not accurate,negative,size_fit
+Cloth is uncomfortable,negative,material
+Amazing experience,positive,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Received product late,negative,delivery
+Received product late,negative,delivery
+Size is too small,negative,size_fit
+Material quality is poor,negative,material
+Really liked it,positive,general
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Could be better,negative,general
+Amazing experience,positive,general
+Order arrived very late,negative,delivery
+Not satisfied,negative,general
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Could be better,negative,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Doesn't fit well,negative,size_fit
+Size is too small,negative,size_fit
+Totally worth it,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Refund taking too long,negative,refund
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Package delayed and Stitching is poor,negative,delivery|quality
+Loved the product,positive,general
+Loved the product,positive,general
+Return process is slow and Sizing is not accurate,negative,refund|size_fit
+Package delayed,negative,delivery
+Really liked it,positive,general
+Size is too small,negative,size_fit
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Loved the product,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Could be better,negative,general
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Fabric is rough,negative,material
+Size is too small,negative,size_fit
+Size is too small,negative,size_fit
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Refund taking too long,negative,refund
+Sizing is not accurate,negative,size_fit
+Material is not soft,negative,material
+Amazing experience,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Fabric feels cheap,negative,material
+Great quality and fit,positive,general
+Very disappointing,negative,general
+Very disappointing,negative,general
+Really liked it,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Loved the product,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Quality is very bad and Delivery took too long,negative,quality|delivery
+Loved the product,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Not durable at all,negative,quality
+Great quality and fit,positive,general
+Delivery was late,negative,delivery
+Great quality and fit,positive,general
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Return process is slow and Size is too small,negative,refund|size_fit
+Amazing experience,positive,general
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Order arrived very late,negative,delivery
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Refund not received and Package delayed,negative,refund|delivery
+Haven't got my money back and Quality is very bad,negative,refund|quality
+Refund not received,negative,refund
+Loved the product,positive,general
+Totally worth it,positive,general
+Refund not received,negative,refund
+Amazing experience,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Not durable at all,negative,quality
+Order arrived very late and Not durable at all,negative,delivery|quality
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Cloth is uncomfortable,negative,material
+Size is too small,negative,size_fit
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Not durable at all,negative,quality
+Totally worth it,positive,general
+Too loose fitting,negative,size_fit
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Doesn't fit well and Refund not received,negative,size_fit|refund
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Haven't got my money back,negative,refund
+Sizing is not accurate,negative,size_fit
+Totally worth it,positive,general
+Expected better,negative,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Size is too small,negative,size_fit
+Very comfortable fabric,positive,general
+Delivery was late and Return process is slow,negative,delivery|refund
+Haven't got my money back and Cloth is uncomfortable,negative,refund|material
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Fabric feels cheap,negative,material
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Stitching is poor,negative,quality
+Average experience,negative,general
+Delivery was late,negative,delivery
+Doesn't fit well,negative,size_fit
+Haven't got my money back,negative,refund
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Size is too small,negative,size_fit
+Loved the product,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Sizing is not accurate,negative,size_fit
+Delivery took too long,negative,delivery
+Not satisfied,negative,general
+Fabric is rough and Haven't got my money back,negative,material|refund
+Fabric is rough,negative,material
+Still waiting for refund,negative,refund
+Return process is slow,negative,refund
+Amazing experience,positive,general
+Refund taking too long and Doesn't fit well,negative,refund|size_fit
+Material is not soft,negative,material
+Loved the product,positive,general
+Not satisfied,negative,general
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Totally worth it,positive,general
+Refund not received,negative,refund
+Loved the product,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Really liked it,positive,general
+Amazing experience,positive,general
+Product got damaged quickly,negative,quality
+Fabric feels cheap,negative,material
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Received product late and Material is not soft,negative,delivery|material
+Material quality is poor,negative,material
+Stitching is poor and Too loose fitting,negative,quality|size_fit
+Size is too small,negative,size_fit
+Very disappointing,negative,general
+Received product late,negative,delivery
+Sizing is not accurate,negative,size_fit
+Amazing experience,positive,general
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Really liked it,positive,general
+Haven't got my money back and Received product late,negative,refund|delivery
+Very disappointing,negative,general
+Not satisfied,negative,general
+Could be better,negative,general
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Size is too small,negative,size_fit
+Still waiting for refund,negative,refund
+Fit is too tight,negative,size_fit
+Could be better,negative,general
+Really liked it,positive,general
+Quality is very bad and Received product late,negative,quality|delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Product got damaged quickly,negative,quality
+Product got damaged quickly,negative,quality
+Material quality is poor,negative,material
+Quality is very bad,negative,quality
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Could be better,negative,general
+Fabric is rough,negative,material
+Loved the product,positive,general
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Received product late,negative,delivery
+Quality is very bad,negative,quality
+Refund not received,negative,refund
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Not durable at all and Material quality is poor,negative,quality|material
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Order arrived very late,negative,delivery
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Expected better,negative,general
+Order arrived very late,negative,delivery
+Too loose fitting,negative,size_fit
+Refund taking too long,negative,refund
+Average experience,negative,general
+Delivery took too long,negative,delivery
+Stitching is poor,negative,quality
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Fabric is rough and Too loose fitting,negative,material|size_fit
+Average experience,negative,general
+Totally worth it,positive,general
+Could be better,negative,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Fabric feels cheap,negative,material
+Package delayed,negative,delivery
+Quality is very bad,negative,quality
+Really liked it,positive,general
+Order arrived very late,negative,delivery
+Refund not received,negative,refund
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Fabric is rough,negative,material
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Too loose fitting,negative,size_fit
+Still waiting for refund,negative,refund
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Not durable at all,negative,quality
+Really liked it,positive,general
+Size is too small and Delivery took too long,negative,size_fit|delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Refund taking too long,negative,refund
+Order arrived very late,negative,delivery
+Refund taking too long,negative,refund
+Totally worth it,positive,general
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Received product late,negative,delivery
+Material is not soft,negative,material
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Received product late and Cloth is uncomfortable,negative,delivery|material
+Not durable at all,negative,quality
+Package delayed,negative,delivery
+Refund taking too long and Fabric feels cheap,negative,refund|material
+Totally worth it,positive,general
+Really liked it,positive,general
+Could be better,negative,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Product got damaged quickly,negative,quality
+Still waiting for refund,negative,refund
+Received product late,negative,delivery
+Package delayed and Doesn't fit well,negative,delivery|size_fit
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Looks cheap quality,negative,quality
+Cloth is uncomfortable,negative,material
+Refund not received and Doesn't fit well,negative,refund|size_fit
+Great quality and fit,positive,general
+Really liked it,positive,general
+Fabric is rough,negative,material
+Fabric is rough and Refund taking too long,negative,material|refund
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Product got damaged quickly and Refund not received,negative,quality|refund
+Really liked it,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Material quality is poor,negative,material
+Totally worth it,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Cloth is uncomfortable,negative,material
+Size is too small and Still waiting for refund,negative,size_fit|refund
+Refund not received,negative,refund
+Amazing experience,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Could be better,negative,general
+Very comfortable fabric,positive,general
+Order arrived very late,negative,delivery
+Not satisfied,negative,general
+Sizing is not accurate,negative,size_fit
+Totally worth it,positive,general
+Material is not soft,negative,material
+Too loose fitting,negative,size_fit
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Quality is very bad and Sizing is not accurate,negative,quality|size_fit
+Really liked it,positive,general
+Not durable at all,negative,quality
+Fit is too tight,negative,size_fit
+Great quality and fit,positive,general
+Delivery was late,negative,delivery
+Package delayed,negative,delivery
+Stitching is poor,negative,quality
+Fabric feels cheap,negative,material
+Really liked it,positive,general
+Fabric is rough,negative,material
+Fabric is rough,negative,material
+Sizing is not accurate,negative,size_fit
+Fabric feels cheap,negative,material
+Return process is slow and Size is too small,negative,refund|size_fit
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Looks cheap quality,negative,quality
+Great quality and fit,positive,general
+Order arrived very late,negative,delivery
+Doesn't fit well and Material quality is poor,negative,size_fit|material
+Delivery took too long,negative,delivery
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Very comfortable fabric,positive,general
+Cloth is uncomfortable,negative,material
+Fabric feels cheap,negative,material
+Stitching is poor,negative,quality
+Still waiting for refund,negative,refund
+Return process is slow and Fit is too tight,negative,refund|size_fit
+Very disappointing,negative,general
+Amazing experience,positive,general
+Sizing is not accurate and Fabric is rough,negative,size_fit|material
+Fit is too tight,negative,size_fit
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Material quality is poor and Delivery took too long,negative,material|delivery
+Loved the product,positive,general
+Fabric feels cheap,negative,material
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Stitching is poor and Refund not received,negative,quality|refund
+Great quality and fit,positive,general
+Average experience,negative,general
+Great quality and fit,positive,general
+Fit is too tight,negative,size_fit
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Material quality is poor,negative,material
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Cloth is uncomfortable,negative,material
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Fabric is rough,negative,material
+Totally worth it,positive,general
+Very disappointing,negative,general
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Received product late,negative,delivery
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Sizing is not accurate,negative,size_fit
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Delivery was late,negative,delivery
+Really liked it,positive,general
+Totally worth it,positive,general
+Material is not soft,negative,material
+Doesn't fit well and Refund taking too long,negative,size_fit|refund
+Great quality and fit,positive,general
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Refund not received,negative,refund
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Fabric is rough,negative,material
+Delivery was late,negative,delivery
+Haven't got my money back,negative,refund
+Not satisfied,negative,general
+Delivery took too long,negative,delivery
+Expected better,negative,general
+Still waiting for refund,negative,refund
+Great quality and fit,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Product got damaged quickly,negative,quality
+Loved the product,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Not durable at all,negative,quality
+Stitching is poor,negative,quality
+Quality is very bad,negative,quality
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Totally worth it,positive,general
+Quality is very bad,negative,quality
+Totally worth it,positive,general
+Return process is slow and Sizing is not accurate,negative,refund|size_fit
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Cloth is uncomfortable,negative,material
+Not durable at all and Size is too small,negative,quality|size_fit
+Package delayed,negative,delivery
+Received product late,negative,delivery
+Very disappointing,negative,general
+Loved the product,positive,general
+Expected better,negative,general
+Cloth is uncomfortable,negative,material
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Expected better,negative,general
+Totally worth it,positive,general
+Refund taking too long,negative,refund
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Very disappointing,negative,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Haven't got my money back,negative,refund
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Delivery took too long and Cloth is uncomfortable,negative,delivery|material
+Expected better,negative,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Refund taking too long,negative,refund
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Delivery was late and Looks cheap quality,negative,delivery|quality
+Stitching is poor,negative,quality
+Totally worth it,positive,general
+Amazing experience,positive,general
+Refund not received,negative,refund
+Loved the product,positive,general
+Refund taking too long,negative,refund
+Package delayed,negative,delivery
+Doesn't fit well and Material is not soft,negative,size_fit|material
+Totally worth it,positive,general
+Delivery took too long,negative,delivery
+Return process is slow,negative,refund
+Haven't got my money back,negative,refund
+Delivery was late,negative,delivery
+Return process is slow,negative,refund
+Doesn't fit well,negative,size_fit
+Totally worth it,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Size is too small and Delivery was late,negative,size_fit|delivery
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Product got damaged quickly and Too loose fitting,negative,quality|size_fit
+Great quality and fit,positive,general
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Really liked it,positive,general
+Refund not received,negative,refund
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Delivery took too long,negative,delivery
+Sizing is not accurate and Refund not received,negative,size_fit|refund
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Package delayed,negative,delivery
+Average experience,negative,general
+Return process is slow,negative,refund
+Material quality is poor,negative,material
+Loved the product,positive,general
+Average experience,negative,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Quality is very bad,negative,quality
+Looks cheap quality,negative,quality
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Product got damaged quickly,negative,quality
+Amazing experience,positive,general
+Loved the product,positive,general
+Product got damaged quickly,negative,quality
+Very comfortable fabric,positive,general
+Too loose fitting and Return process is slow,negative,size_fit|refund
+Loved the product,positive,general
+Great quality and fit,positive,general
+Not satisfied,negative,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Average experience,negative,general
+Cloth is uncomfortable and Quality is very bad,negative,material|quality
+Fabric feels cheap,negative,material
+Very comfortable fabric,positive,general
+Order arrived very late,negative,delivery
+Haven't got my money back,negative,refund
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Return process is slow,negative,refund
+Amazing experience,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Very disappointing,negative,general
+Quality is very bad and Fabric feels cheap,negative,quality|material
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Refund not received,negative,refund
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Amazing experience,positive,general
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Very disappointing,negative,general
+Totally worth it,positive,general
+Fabric feels cheap,negative,material
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Amazing experience,positive,general
+Loved the product,positive,general
+Refund not received,negative,refund
+Really liked it,positive,general
+Received product late,negative,delivery
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Haven't got my money back and Product got damaged quickly,negative,refund|quality
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Delivery took too long,negative,delivery
+Loved the product,positive,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Cloth is uncomfortable,negative,material
+Too loose fitting,negative,size_fit
+Delivery took too long,negative,delivery
+Doesn't fit well,negative,size_fit
+Refund taking too long,negative,refund
+Product got damaged quickly and Fit is too tight,negative,quality|size_fit
+Really liked it,positive,general
+Order arrived very late,negative,delivery
+Great quality and fit,positive,general
+Received product late,negative,delivery
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Material is not soft,negative,material
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Amazing experience,positive,general
+Loved the product,positive,general
+Fit is too tight and Not durable at all,negative,size_fit|quality
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Haven't got my money back,negative,refund
+Loved the product,positive,general
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Refund taking too long and Fabric is rough,negative,refund|material
+Great quality and fit,positive,general
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Material is not soft,negative,material
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Size is too small,negative,size_fit
+Loved the product,positive,general
+Not satisfied,negative,general
+Stitching is poor and Return process is slow,negative,quality|refund
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Order arrived very late,negative,delivery
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Really liked it,positive,general
+Delivery took too long and Stitching is poor,negative,delivery|quality
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Package delayed,negative,delivery
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Product got damaged quickly,negative,quality
+Cloth is uncomfortable,negative,material
+Fabric is rough,negative,material
+Still waiting for refund,negative,refund
+Really liked it,positive,general
+Package delayed,negative,delivery
+Could be better,negative,general
+Doesn't fit well,negative,size_fit
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Expected better,negative,general
+Very comfortable fabric,positive,general
+Haven't got my money back and Stitching is poor,negative,refund|quality
+Fit is too tight and Not durable at all,negative,size_fit|quality
+Could be better,negative,general
+Order arrived very late,negative,delivery
+Stitching is poor and Size is too small,negative,quality|size_fit
+Delivery was late,negative,delivery
+Haven't got my money back,negative,refund
+Loved the product,positive,general
+Average experience,negative,general
+Return process is slow,negative,refund
+Not durable at all,negative,quality
+Not satisfied,negative,general
+Fit is too tight,negative,size_fit
+Not durable at all,negative,quality
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Cloth is uncomfortable,negative,material
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Not durable at all,negative,quality
+Looks cheap quality and Delivery took too long,negative,quality|delivery
+Amazing experience,positive,general
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Quality is very bad and Size is too small,negative,quality|size_fit
+Package delayed,negative,delivery
+Totally worth it,positive,general
+Package delayed,negative,delivery
+Really liked it,positive,general
+Very disappointing,negative,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Looks cheap quality and Too loose fitting,negative,quality|size_fit
+Material is not soft,negative,material
+Size is too small and Return process is slow,negative,size_fit|refund
+Great quality and fit,positive,general
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Really liked it,positive,general
+Looks cheap quality,negative,quality
+Too loose fitting,negative,size_fit
+Received product late and Stitching is poor,negative,delivery|quality
+Size is too small,negative,size_fit
+Material is not soft,negative,material
+Really liked it,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Fabric feels cheap,negative,material
+Fabric feels cheap,negative,material
+Really liked it,positive,general
+Quality is very bad,negative,quality
+Average experience,negative,general
+Very comfortable fabric,positive,general
+Return process is slow and Delivery was late,negative,refund|delivery
+Order arrived very late,negative,delivery
+Return process is slow,negative,refund
+Really liked it,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Cloth is uncomfortable and Looks cheap quality,negative,material|quality
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Looks cheap quality and Refund taking too long,negative,quality|refund
+Loved the product,positive,general
+Order arrived very late and Fit is too tight,negative,delivery|size_fit
+Very comfortable fabric,positive,general
+Package delayed,negative,delivery
+Not durable at all,negative,quality
+Totally worth it,positive,general
+Fabric is rough,negative,material
+Fabric feels cheap,negative,material
+Refund not received,negative,refund
+Totally worth it,positive,general
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Order arrived very late,negative,delivery
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Material is not soft,negative,material
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Could be better,negative,general
+Loved the product,positive,general
+Cloth is uncomfortable,negative,material
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Fabric feels cheap and Delivery was late,negative,material|delivery
+Fabric is rough and Product got damaged quickly,negative,material|quality
+Fabric feels cheap,negative,material
+Loved the product,positive,general
+Haven't got my money back,negative,refund
+Really liked it,positive,general
+Really liked it,positive,general
+Order arrived very late,negative,delivery
+Very comfortable fabric,positive,general
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Package delayed,negative,delivery
+Really liked it,positive,general
+Fabric is rough,negative,material
+Amazing experience,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Package delayed and Too loose fitting,negative,delivery|size_fit
+Size is too small and Cloth is uncomfortable,negative,size_fit|material
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Not durable at all and Still waiting for refund,negative,quality|refund
+Great quality and fit,positive,general
+Haven't got my money back and Material quality is poor,negative,refund|material
+Great quality and fit,positive,general
+Material is not soft,negative,material
+Totally worth it,positive,general
+Cloth is uncomfortable,negative,material
+Size is too small and Order arrived very late,negative,size_fit|delivery
+Quality is very bad,negative,quality
+Too loose fitting,negative,size_fit
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Looks cheap quality and Fabric is rough,negative,quality|material
+Order arrived very late,negative,delivery
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Fabric feels cheap and Fit is too tight,negative,material|size_fit
+Product got damaged quickly,negative,quality
+Size is too small,negative,size_fit
+Product got damaged quickly,negative,quality
+Average experience,negative,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Product got damaged quickly,negative,quality
+Product got damaged quickly,negative,quality
+Return process is slow,negative,refund
+Could be better,negative,general
+Material quality is poor,negative,material
+Delivery took too long,negative,delivery
+Still waiting for refund,negative,refund
+Great quality and fit,positive,general
+Very disappointing,negative,general
+Sizing is not accurate,negative,size_fit
+Product got damaged quickly,negative,quality
+Not durable at all,negative,quality
+Size is too small,negative,size_fit
+Amazing experience,positive,general
+Looks cheap quality,negative,quality
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Haven't got my money back,negative,refund
+Stitching is poor,negative,quality
+Received product late,negative,delivery
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Package delayed,negative,delivery
+Could be better,negative,general
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Material quality is poor,negative,material
+Loved the product,positive,general
+Looks cheap quality and Fabric feels cheap,negative,quality|material
+Great quality and fit,positive,general
+Loved the product,positive,general
+Could be better,negative,general
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Loved the product,positive,general
+Quality is very bad and Return process is slow,negative,quality|refund
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Too loose fitting,negative,size_fit
+Loved the product,positive,general
+Not durable at all,negative,quality
+Refund not received and Product got damaged quickly,negative,refund|quality
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Package delayed and Fabric is rough,negative,delivery|material
+Received product late,negative,delivery
+Fabric is rough and Size is too small,negative,material|size_fit
+Totally worth it,positive,general
+Loved the product,positive,general
+Expected better,negative,general
+Size is too small,negative,size_fit
+Really liked it,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Received product late and Return process is slow,negative,delivery|refund
+Very comfortable fabric,positive,general
+Material quality is poor,negative,material
+Material quality is poor,negative,material
+Fabric is rough,negative,material
+Too loose fitting and Still waiting for refund,negative,size_fit|refund
+Average experience,negative,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Package delayed,negative,delivery
+Expected better,negative,general
+Cloth is uncomfortable,negative,material
+Really liked it,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Fabric is rough,negative,material
+Doesn't fit well,negative,size_fit
+Amazing experience,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Fabric feels cheap,negative,material
+Product got damaged quickly and Fabric feels cheap,negative,quality|material
+Loved the product,positive,general
+Quality is very bad and Return process is slow,negative,quality|refund
+Loved the product,positive,general
+Looks cheap quality and Fabric feels cheap,negative,quality|material
+Loved the product,positive,general
+Amazing experience,positive,general
+Received product late and Fit is too tight,negative,delivery|size_fit
+Totally worth it,positive,general
+Not durable at all,negative,quality
+Expected better,negative,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Sizing is not accurate and Haven't got my money back,negative,size_fit|refund
+Could be better,negative,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Expected better,negative,general
+Material is not soft,negative,material
+Really liked it,positive,general
+Not satisfied,negative,general
+Cloth is uncomfortable,negative,material
+Fit is too tight,negative,size_fit
+Package delayed,negative,delivery
+Refund not received,negative,refund
+Expected better,negative,general
+Great quality and fit,positive,general
+Not durable at all,negative,quality
+Refund taking too long,negative,refund
+Not durable at all and Delivery took too long,negative,quality|delivery
+Refund not received,negative,refund
+Totally worth it,positive,general
+Amazing experience,positive,general
+Order arrived very late,negative,delivery
+Very disappointing,negative,general
+Very disappointing,negative,general
+Cloth is uncomfortable,negative,material
+Haven't got my money back and Not durable at all,negative,refund|quality
+Still waiting for refund,negative,refund
+Cloth is uncomfortable,negative,material
+Refund not received,negative,refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Amazing experience,positive,general
+Average experience,negative,general
+Not satisfied,negative,general
+Product got damaged quickly and Sizing is not accurate,negative,quality|size_fit
+Return process is slow,negative,refund
+Order arrived very late,negative,delivery
+Refund not received,negative,refund
+Fit is too tight,negative,size_fit
+Sizing is not accurate,negative,size_fit
+Very comfortable fabric,positive,general
+Very disappointing,negative,general
+Too loose fitting,negative,size_fit
+Fabric feels cheap,negative,material
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Loved the product,positive,general
+Return process is slow and Stitching is poor,negative,refund|quality
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Not satisfied,negative,general
+Order arrived very late,negative,delivery
+Really liked it,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Looks cheap quality,negative,quality
+Loved the product,positive,general
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Quality is very bad,negative,quality
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Could be better,negative,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Doesn't fit well,negative,size_fit
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Quality is very bad,negative,quality
+Amazing experience,positive,general
+Totally worth it,positive,general
+Fabric feels cheap,negative,material
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Fabric feels cheap,negative,material
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Quality is very bad,negative,quality
+Cloth is uncomfortable,negative,material
+Very disappointing,negative,general
+Sizing is not accurate and Material is not soft,negative,size_fit|material
+Totally worth it,positive,general
+Stitching is poor and Order arrived very late,negative,quality|delivery
+Amazing experience,positive,general
+Product got damaged quickly,negative,quality
+Return process is slow,negative,refund
+Too loose fitting,negative,size_fit
+Haven't got my money back and Cloth is uncomfortable,negative,refund|material
+Very disappointing,negative,general
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Package delayed and Doesn't fit well,negative,delivery|size_fit
+Very comfortable fabric,positive,general
+Fabric feels cheap,negative,material
+Really liked it,positive,general
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Fabric feels cheap,negative,material
+Order arrived very late,negative,delivery
+Totally worth it,positive,general
+Really liked it,positive,general
+Quality is very bad,negative,quality
+Amazing experience,positive,general
+Haven't got my money back,negative,refund
+Loved the product,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Material is not soft and Stitching is poor,negative,material|quality
+Order arrived very late and Cloth is uncomfortable,negative,delivery|material
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Not satisfied,negative,general
+Size is too small,negative,size_fit
+Return process is slow and Quality is very bad,negative,refund|quality
+Really liked it,positive,general
+Not durable at all,negative,quality
+Quality is very bad,negative,quality
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Not satisfied,negative,general
+Refund not received,negative,refund
+Refund taking too long,negative,refund
+Totally worth it,positive,general
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Doesn't fit well,negative,size_fit
+Not satisfied,negative,general
+Really liked it,positive,general
+Fabric feels cheap and Delivery took too long,negative,material|delivery
+Refund not received,negative,refund
+Average experience,negative,general
+Could be better,negative,general
+Delivery took too long,negative,delivery
+Doesn't fit well and Fabric feels cheap,negative,size_fit|material
+Doesn't fit well,negative,size_fit
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Haven't got my money back,negative,refund
+Quality is very bad and Haven't got my money back,negative,quality|refund
+Loved the product,positive,general
+Could be better,negative,general
+Size is too small,negative,size_fit
+Not durable at all and Fabric is rough,negative,quality|material
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Doesn't fit well,negative,size_fit
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Quality is very bad,negative,quality
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Expected better,negative,general
+Loved the product,positive,general
+Not satisfied,negative,general
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Doesn't fit well,negative,size_fit
+Expected better,negative,general
+Loved the product,positive,general
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Still waiting for refund,negative,refund
+Totally worth it,positive,general
+Delivery took too long,negative,delivery
+Delivery took too long and Material is not soft,negative,delivery|material
+Cloth is uncomfortable,negative,material
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Expected better,negative,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Size is too small,negative,size_fit
+Material quality is poor,negative,material
+Loved the product,positive,general
+Package delayed and Not durable at all,negative,delivery|quality
+Received product late,negative,delivery
+Fabric feels cheap,negative,material
+Fabric is rough,negative,material
+Great quality and fit,positive,general
+Not durable at all,negative,quality
+Very disappointing,negative,general
+Really liked it,positive,general
+Received product late,negative,delivery
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Really liked it,positive,general
+Quality is very bad,negative,quality
+Loved the product,positive,general
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Refund not received,negative,refund
+Really liked it,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Order arrived very late,negative,delivery
+Size is too small,negative,size_fit
+Very comfortable fabric,positive,general
+Fit is too tight and Fabric feels cheap,negative,size_fit|material
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Totally worth it,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Not durable at all,negative,quality
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Refund taking too long and Material quality is poor,negative,refund|material
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Refund not received,negative,refund
+Loved the product,positive,general
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Really liked it,positive,general
+Sizing is not accurate,negative,size_fit
+Average experience,negative,general
+Size is too small,negative,size_fit
+Really liked it,positive,general
+Cloth is uncomfortable,negative,material
+Doesn't fit well,negative,size_fit
+Not durable at all and Doesn't fit well,negative,quality|size_fit
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Size is too small and Order arrived very late,negative,size_fit|delivery
+Doesn't fit well,negative,size_fit
+Material quality is poor,negative,material
+Totally worth it,positive,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Average experience,negative,general
+Very comfortable fabric,positive,general
+Fabric feels cheap,negative,material
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Looks cheap quality,negative,quality
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Refund taking too long,negative,refund
+Average experience,negative,general
+Average experience,negative,general
+Really liked it,positive,general
+Fabric feels cheap,negative,material
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Looks cheap quality,negative,quality
+Size is too small,negative,size_fit
+Expected better,negative,general
+Great quality and fit,positive,general
+Not durable at all,negative,quality
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Order arrived very late and Cloth is uncomfortable,negative,delivery|material
+Loved the product,positive,general
+Looks cheap quality and Refund taking too long,negative,quality|refund
+Return process is slow,negative,refund
+Too loose fitting,negative,size_fit
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Quality is very bad,negative,quality
+Not satisfied,negative,general
+Really liked it,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Cloth is uncomfortable,negative,material
+Fit is too tight and Looks cheap quality,negative,size_fit|quality
+Not durable at all and Order arrived very late,negative,quality|delivery
+Really liked it,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Totally worth it,positive,general
+Totally worth it,positive,general
+Average experience,negative,general
+Package delayed,negative,delivery
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Expected better,negative,general
+Refund not received,negative,refund
+Return process is slow,negative,refund
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Totally worth it,positive,general
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Fabric feels cheap and Size is too small,negative,material|size_fit
+Really liked it,positive,general
+Great quality and fit,positive,general
+Haven't got my money back and Received product late,negative,refund|delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Looks cheap quality,negative,quality
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Size is too small and Haven't got my money back,negative,size_fit|refund
+Amazing experience,positive,general
+Loved the product,positive,general
+Looks cheap quality and Sizing is not accurate,negative,quality|size_fit
+Sizing is not accurate and Refund taking too long,negative,size_fit|refund
+Very comfortable fabric,positive,general
+Cloth is uncomfortable,negative,material
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Stitching is poor,negative,quality
+Return process is slow and Sizing is not accurate,negative,refund|size_fit
+Really liked it,positive,general
+Doesn't fit well and Material quality is poor,negative,size_fit|material
+Product got damaged quickly,negative,quality
+Sizing is not accurate,negative,size_fit
+Very disappointing,negative,general
+Amazing experience,positive,general
+Sizing is not accurate,negative,size_fit
+Amazing experience,positive,general
+Product got damaged quickly,negative,quality
+Amazing experience,positive,general
+Totally worth it,positive,general
+Could be better,negative,general
+Fit is too tight,negative,size_fit
+Package delayed,negative,delivery
+Really liked it,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Could be better,negative,general
+Fabric feels cheap,negative,material
+Very disappointing,negative,general
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Product got damaged quickly,negative,quality
+Refund not received,negative,refund
+Too loose fitting,negative,size_fit
+Fabric feels cheap and Return process is slow,negative,material|refund
+Totally worth it,positive,general
+Totally worth it,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Quality is very bad,negative,quality
+Size is too small and Cloth is uncomfortable,negative,size_fit|material
+Loved the product,positive,general
+Material quality is poor and Sizing is not accurate,negative,material|size_fit
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Not satisfied,negative,general
+Really liked it,positive,general
+Return process is slow,negative,refund
+Amazing experience,positive,general
+Delivery was late and Still waiting for refund,negative,delivery|refund
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Totally worth it,positive,general
+Loved the product,positive,general
+Material quality is poor,negative,material
+Really liked it,positive,general
+Great quality and fit,positive,general
+Sizing is not accurate and Product got damaged quickly,negative,size_fit|quality
+Not durable at all,negative,quality
+Great quality and fit,positive,general
+Loved the product,positive,general
+Looks cheap quality and Doesn't fit well,negative,quality|size_fit
+Expected better,negative,general
+Refund taking too long and Material is not soft,negative,refund|material
+Delivery was late,negative,delivery
+Delivery took too long,negative,delivery
+Really liked it,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Not durable at all,negative,quality
+Great quality and fit,positive,general
+Too loose fitting,negative,size_fit
+Delivery was late,negative,delivery
+Loved the product,positive,general
+Material is not soft,negative,material
+Really liked it,positive,general
+Loved the product,positive,general
+Could be better,negative,general
+Size is too small,negative,size_fit
+Very disappointing,negative,general
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Could be better,negative,general
+Amazing experience,positive,general
+Return process is slow and Product got damaged quickly,negative,refund|quality
+Material is not soft and Sizing is not accurate,negative,material|size_fit
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Refund taking too long,negative,refund
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Really liked it,positive,general
+Return process is slow and Sizing is not accurate,negative,refund|size_fit
+Loved the product,positive,general
+Could be better,negative,general
+Too loose fitting and Material quality is poor,negative,size_fit|material
+Package delayed and Material quality is poor,negative,delivery|material
+Order arrived very late,negative,delivery
+Amazing experience,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Too loose fitting,negative,size_fit
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Doesn't fit well,negative,size_fit
+Fabric feels cheap and Too loose fitting,negative,material|size_fit
+Material quality is poor,negative,material
+Received product late,negative,delivery
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Quality is very bad,negative,quality
+Very comfortable fabric,positive,general
+Sizing is not accurate,negative,size_fit
+Really liked it,positive,general
+Really liked it,positive,general
+Totally worth it,positive,general
+Product got damaged quickly,negative,quality
+Totally worth it,positive,general
+Delivery took too long,negative,delivery
+Loved the product,positive,general
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Material is not soft,negative,material
+Haven't got my money back,negative,refund
+Very comfortable fabric,positive,general
+Package delayed,negative,delivery
+Amazing experience,positive,general
+Stitching is poor and Order arrived very late,negative,quality|delivery
+Sizing is not accurate,negative,size_fit
+Product got damaged quickly,negative,quality
+Expected better,negative,general
+Could be better,negative,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Delivery was late,negative,delivery
+Really liked it,positive,general
+Not durable at all,negative,quality
+Totally worth it,positive,general
+Average experience,negative,general
+Still waiting for refund,negative,refund
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Not durable at all,negative,quality
+Received product late,negative,delivery
+Size is too small and Fabric feels cheap,negative,size_fit|material
+Fabric is rough,negative,material
+Totally worth it,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Package delayed,negative,delivery
+Really liked it,positive,general
+Return process is slow,negative,refund
+Return process is slow and Material is not soft,negative,refund|material
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Too loose fitting,negative,size_fit
+Product got damaged quickly,negative,quality
+Could be better,negative,general
+Really liked it,positive,general
+Fabric feels cheap,negative,material
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Sizing is not accurate,negative,size_fit
+Loved the product,positive,general
+Quality is very bad,negative,quality
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Package delayed,negative,delivery
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Order arrived very late,negative,delivery
+Great quality and fit,positive,general
+Refund taking too long,negative,refund
+Too loose fitting,negative,size_fit
+Average experience,negative,general
+Great quality and fit,positive,general
+Return process is slow,negative,refund
+Product got damaged quickly,negative,quality
+Loved the product,positive,general
+Quality is very bad and Order arrived very late,negative,quality|delivery
+Refund taking too long,negative,refund
+Doesn't fit well and Delivery was late,negative,size_fit|delivery
+Amazing experience,positive,general
+Fabric feels cheap and Doesn't fit well,negative,material|size_fit
+Really liked it,positive,general
+Too loose fitting and Stitching is poor,negative,size_fit|quality
+Size is too small,negative,size_fit
+Refund not received,negative,refund
+Still waiting for refund,negative,refund
+Not satisfied,negative,general
+Looks cheap quality,negative,quality
+Loved the product,positive,general
+Cloth is uncomfortable,negative,material
+Fabric is rough,negative,material
+Material quality is poor,negative,material
+Great quality and fit,positive,general
+Cloth is uncomfortable,negative,material
+Quality is very bad,negative,quality
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Still waiting for refund,negative,refund
+Cloth is uncomfortable,negative,material
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Fabric is rough,negative,material
+Refund taking too long and Cloth is uncomfortable,negative,refund|material
+Size is too small,negative,size_fit
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Doesn't fit well,negative,size_fit
+Loved the product,positive,general
+Order arrived very late,negative,delivery
+Really liked it,positive,general
+Amazing experience,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Haven't got my money back and Delivery was late,negative,refund|delivery
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Material is not soft,negative,material
+Not satisfied,negative,general
+Return process is slow,negative,refund
+Size is too small,negative,size_fit
+Package delayed and Cloth is uncomfortable,negative,delivery|material
+Fabric feels cheap,negative,material
+Delivery took too long,negative,delivery
+Totally worth it,positive,general
+Delivery took too long,negative,delivery
+Product got damaged quickly,negative,quality
+Delivery was late and Not durable at all,negative,delivery|quality
+Expected better,negative,general
+Totally worth it,positive,general
+Too loose fitting,negative,size_fit
+Average experience,negative,general
+Refund taking too long,negative,refund
+Haven't got my money back,negative,refund
+Not durable at all and Too loose fitting,negative,quality|size_fit
+Fit is too tight,negative,size_fit
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Material quality is poor,negative,material
+Received product late,negative,delivery
+Fabric is rough,negative,material
+Loved the product,positive,general
+Not durable at all,negative,quality
+Delivery was late,negative,delivery
+Material quality is poor,negative,material
+Size is too small and Package delayed,negative,size_fit|delivery
+Too loose fitting,negative,size_fit
+Looks cheap quality,negative,quality
+Amazing experience,positive,general
+Delivery was late,negative,delivery
+Really liked it,positive,general
+Delivery took too long,negative,delivery
+Could be better,negative,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Totally worth it,positive,general
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Fabric feels cheap,negative,material
+Great quality and fit,positive,general
+Loved the product,positive,general
+Fabric is rough and Delivery took too long,negative,material|delivery
+Doesn't fit well,negative,size_fit
+Totally worth it,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Package delayed,negative,delivery
+Really liked it,positive,general
+Not durable at all,negative,quality
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Refund taking too long,negative,refund
+Doesn't fit well,negative,size_fit
+Material quality is poor,negative,material
+Material quality is poor,negative,material
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Refund not received,negative,refund
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Really liked it,positive,general
+Order arrived very late,negative,delivery
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Haven't got my money back and Doesn't fit well,negative,refund|size_fit
+Not durable at all,negative,quality
+Received product late and Refund not received,negative,delivery|refund
+Sizing is not accurate and Haven't got my money back,negative,size_fit|refund
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Package delayed,negative,delivery
+Not durable at all,negative,quality
+Stitching is poor and Refund not received,negative,quality|refund
+Totally worth it,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Very disappointing,negative,general
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Loved the product,positive,general
+Material quality is poor,negative,material
+Refund not received and Sizing is not accurate,negative,refund|size_fit
+Sizing is not accurate and Delivery was late,negative,size_fit|delivery
+Fabric feels cheap,negative,material
+Loved the product,positive,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Refund taking too long,negative,refund
+Really liked it,positive,general
+Fit is too tight,negative,size_fit
+Really liked it,positive,general
+Really liked it,positive,general
+Refund taking too long and Doesn't fit well,negative,refund|size_fit
+Loved the product,positive,general
+Loved the product,positive,general
+Refund taking too long,negative,refund
+Too loose fitting,negative,size_fit
+Loved the product,positive,general
+Cloth is uncomfortable and Doesn't fit well,negative,material|size_fit
+Totally worth it,positive,general
+Amazing experience,positive,general
+Refund not received,negative,refund
+Fit is too tight and Looks cheap quality,negative,size_fit|quality
+Fabric feels cheap and Too loose fitting,negative,material|size_fit
+Loved the product,positive,general
+Delivery took too long,negative,delivery
+Sizing is not accurate,negative,size_fit
+Really liked it,positive,general
+Totally worth it,positive,general
+Material quality is poor,negative,material
+Loved the product,positive,general
+Return process is slow,negative,refund
+Not durable at all,negative,quality
+Very comfortable fabric,positive,general
+Expected better,negative,general
+Material is not soft,negative,material
+Amazing experience,positive,general
+Loved the product,positive,general
+Loved the product,positive,general
+Very disappointing,negative,general
+Quality is very bad,negative,quality
+Order arrived very late,negative,delivery
+Received product late,negative,delivery
+Really liked it,positive,general
+Very comfortable fabric,positive,general
+Loved the product,positive,general
+Very comfortable fabric,positive,general
+Fabric is rough,negative,material
+Loved the product,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Really liked it,positive,general
+Too loose fitting,negative,size_fit
+Really liked it,positive,general
+Really liked it,positive,general
+Really liked it,positive,general
+Expected better,negative,general
+Really liked it,positive,general
+Amazing experience,positive,general
+Refund not received,negative,refund
+Very comfortable fabric,positive,general
+Material quality is poor,negative,material
+Size is too small,negative,size_fit
+Really liked it,positive,general
+Really liked it,positive,general
+Haven't got my money back,negative,refund
+Material quality is poor,negative,material
+Material is not soft,negative,material
+Package delayed and Doesn't fit well,negative,delivery|size_fit
+Fabric is rough,negative,material
+Still waiting for refund,negative,refund
+Really liked it,positive,general
+Haven't got my money back,negative,refund
+Amazing experience,positive,general
+Cloth is uncomfortable,negative,material
+Amazing experience,positive,general
+Haven't got my money back,negative,refund
+Product got damaged quickly,negative,quality
+Material is not soft,negative,material
+Really liked it,positive,general
+Package delayed,negative,delivery
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Very comfortable fabric,positive,general
+Quality is very bad,negative,quality
+Really liked it,positive,general
+Amazing experience,positive,general
+Totally worth it,positive,general
+Not satisfied,negative,general
+Quality is very bad,negative,quality
+Too loose fitting and Fabric is rough,negative,size_fit|material
+Haven't got my money back,negative,refund
+Very comfortable fabric,positive,general
+Sizing is not accurate and Quality is very bad,negative,size_fit|quality
+Not satisfied,negative,general
+Amazing experience,positive,general
+Refund taking too long and Fabric feels cheap,negative,refund|material
+Loved the product,positive,general
+Material is not soft,negative,material
+Totally worth it,positive,general
+Package delayed,negative,delivery
+Return process is slow,negative,refund
+Not satisfied,negative,general
+Doesn't fit well,negative,size_fit
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Still waiting for refund,negative,refund
+Very comfortable fabric,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Material is not soft,negative,material
+Fit is too tight,negative,size_fit
+Very comfortable fabric,positive,general
+Material quality is poor,negative,material
+Size is too small and Material is not soft,negative,size_fit|material
+Quality is very bad,negative,quality
+Really liked it,positive,general
+Still waiting for refund,negative,refund
+Very disappointing,negative,general
+Order arrived very late,negative,delivery
+Loved the product,positive,general
+Sizing is not accurate,negative,size_fit
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Not satisfied,negative,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Great quality and fit,positive,general
+Size is too small,negative,size_fit
+Not satisfied,negative,general
+Return process is slow,negative,refund
+Very comfortable fabric,positive,general
+Haven't got my money back,negative,refund
+Great quality and fit,positive,general
+Package delayed,negative,delivery
+Delivery took too long,negative,delivery
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Too loose fitting,negative,size_fit
+Very disappointing,negative,general
+Package delayed,negative,delivery
+Totally worth it,positive,general
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Package delayed,negative,delivery
+Very comfortable fabric,positive,general
+Expected better,negative,general
+Totally worth it,positive,general
+Average experience,negative,general
+Not durable at all,negative,quality
+Really liked it,positive,general
+Fabric is rough,negative,material
+Very disappointing,negative,general
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Not durable at all,negative,quality
+Expected better,negative,general
+Could be better,negative,general
+Return process is slow,negative,refund
+Delivery took too long,negative,delivery
+Package delayed,negative,delivery
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Fit is too tight and Cloth is uncomfortable,negative,size_fit|material
+Totally worth it,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Material quality is poor,negative,material
+Amazing experience,positive,general
+Product got damaged quickly,negative,quality
+Return process is slow,negative,refund
+Fit is too tight,negative,size_fit
+Fit is too tight,negative,size_fit
+Received product late,negative,delivery
+Could be better,negative,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Material quality is poor,negative,material
+Return process is slow,negative,refund
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Totally worth it,positive,general
+Return process is slow,negative,refund
+Totally worth it,positive,general
+Really liked it,positive,general
+Fit is too tight and Delivery took too long,negative,size_fit|delivery
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Fabric is rough,negative,material
+Refund not received,negative,refund
+Totally worth it,positive,general
+Order arrived very late and Too loose fitting,negative,delivery|size_fit
+Really liked it,positive,general
+Material quality is poor and Sizing is not accurate,negative,material|size_fit
+Refund taking too long,negative,refund
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Very comfortable fabric,positive,general
+Stitching is poor,negative,quality
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Not satisfied,negative,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Return process is slow and Fabric is rough,negative,refund|material
+Material quality is poor,negative,material
+Delivery took too long,negative,delivery
+Amazing experience,positive,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Amazing experience,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Not satisfied,negative,general
+Really liked it,positive,general
+Expected better,negative,general
+Great quality and fit,positive,general
+Delivery took too long,negative,delivery
+Could be better,negative,general
+Very comfortable fabric,positive,general
+Totally worth it,positive,general
+Material quality is poor,negative,material
+Expected better,negative,general
+Really liked it,positive,general
+Haven't got my money back,negative,refund
+Totally worth it,positive,general
+Loved the product,positive,general
+Cloth is uncomfortable,negative,material
+Loved the product,positive,general
+Order arrived very late and Haven't got my money back,negative,delivery|refund
+Very comfortable fabric,positive,general
+Fit is too tight,negative,size_fit
+Loved the product,positive,general
+Too loose fitting,negative,size_fit
+Loved the product,positive,general
+Refund taking too long,negative,refund
+Fabric is rough,negative,material
+Loved the product,positive,general
+Totally worth it,positive,general
+Still waiting for refund,negative,refund
+Really liked it,positive,general
+Material quality is poor and Package delayed,negative,material|delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Received product late,negative,delivery
+Really liked it,positive,general
+Package delayed,negative,delivery
+Amazing experience,positive,general
+Stitching is poor,negative,quality
+Amazing experience,positive,general
+Fabric is rough and Stitching is poor,negative,material|quality
+Return process is slow,negative,refund
+Looks cheap quality and Sizing is not accurate,negative,quality|size_fit
+Amazing experience,positive,general
+Great quality and fit,positive,general
+Material is not soft and Refund not received,negative,material|refund
+Too loose fitting,negative,size_fit
+Loved the product,positive,general
+Great quality and fit,positive,general
+Great quality and fit,positive,general
+Very disappointing,negative,general
+Totally worth it,positive,general
+Too loose fitting,negative,size_fit
+Sizing is not accurate,negative,size_fit
+Amazing experience,positive,general
+Delivery was late,negative,delivery
+Material is not soft,negative,material
+Really liked it,positive,general
+Great quality and fit,positive,general
+Looks cheap quality,negative,quality
+Great quality and fit,positive,general
+Haven't got my money back and Fit is too tight,negative,refund|size_fit
+Totally worth it,positive,general
+Haven't got my money back,negative,refund
+Delivery was late,negative,delivery
+Expected better,negative,general
+Expected better,negative,general
+Product got damaged quickly and Order arrived very late,negative,quality|delivery
+Refund not received,negative,refund
+Fabric feels cheap,negative,material
+Totally worth it,positive,general
+Loved the product,positive,general
+Delivery was late,negative,delivery
+Fit is too tight,negative,size_fit
+Received product late,negative,delivery
+Fit is too tight,negative,size_fit
+Amazing experience,positive,general
+Really liked it,positive,general
+Great quality and fit,positive,general
+Loved the product,positive,general
+Still waiting for refund,negative,refund
+Loved the product,positive,general
+Return process is slow,negative,refund
+Haven't got my money back,negative,refund
+Amazing experience,positive,general
+Really liked it,positive,general
+Product got damaged quickly,negative,quality
+Delivery was late,negative,delivery
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Average experience,negative,general
+Really liked it,positive,general
+Loved the product,positive,general
+Really liked it,positive,general
+Expected better,negative,general
+Order arrived very late,negative,delivery
+Very comfortable fabric,positive,general
+Very comfortable fabric,positive,general
+Great quality and fit,positive,general
+Amazing experience,positive,general
+Amazing experience,positive,general
+Delivery was late,negative,delivery
+Size is too small,negative,size_fit
+Cloth is uncomfortable,negative,material
+Great quality and fit,positive,general
+Totally worth it,positive,general
+Material is not soft,negative,material
+Loved the product,positive,general
+Really liked it,positive,general
+Material quality is poor,negative,material
+Haven't got my money back,negative,refund
+Loved the product,positive,general
+Amazing experience,positive,general
+Too loose fitting,negative,size_fit
+Amazing experience,positive,general
+Size is too small,negative,size_fit
+Amazing experience,positive,general
+Material is not soft,negative,material
+Very comfortable fabric,positive,general

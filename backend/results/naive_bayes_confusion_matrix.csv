@@ -1,0 +1,7 @@
+,delivery,general,material,quality,refund,size_fit
+delivery,8,0,0,0,0,1
+general,0,0,0,2,0,0
+material,0,0,6,0,3,0
+quality,0,0,1,8,1,1
+refund,1,0,0,2,7,0
+size_fit,0,0,2,1,0,8
